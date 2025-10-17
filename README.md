@@ -46,3 +46,13 @@ Inside the app, type the command `help` for a list of available commands — or 
 - Modified and improved by: **Nextstars**
 
 ---
+
+## 💬 Discord Community
+
+Join our community on Discord to get support, share discoveries, and discuss tips:  
+
+[**Discord Server**]([https://discord.gg/your-discord-link](https://discord.gg/t4JTCZ7GVR))  
+
+Feel free to ask questions, report bugs, or suggest new features!
+
+---
